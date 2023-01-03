@@ -1,10 +1,10 @@
-Hoolix - Smart Ideas for your Brand are Here
+Quantum Marketing Uganda- Smart Ideas for your Brand are Here
 
 
 
 #---------- HEADER ----------#
 
-Hoolix
+Quantum Marketing Uganda
 
 aria-label = close menu
 
@@ -160,6 +160,15 @@ placeholder = Enter your email
 
 Our Services
 
+Social Media Marketing
+Social Media Management
+Music Distribution
+Affiliate Marketing
+WordPress Development & Management
+Computer Networking
+Graphics & Design
+Websites SEO & Leads
+Bulk SmS Promotion
 Strategy & Research
 Web Development
 Web Solution
@@ -179,20 +188,20 @@ Contact Us
 Contact Us
 
 <ion-icon name="location" aria-hidden="true"></ion-icon>
-4517 Washington Ave. Manchester, Kentucky 39495
+Naguru, Kampala, Uganda.
 
 <ion-icon name="call" aria-hidden="true"></ion-icon>
-+7894631546876
++256775346597
 
 <ion-icon name="mail" aria-hidden="true"></ion-icon>
-info@hoolix.com
+swallezntb@gmail.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-pinterest"></ion-icon>
 
-&copy; 2022 Hoolix | All Rights Reserved by codewithsadee
+&copy; 2022 QuantumMarketing | All Rights Reserved by codewithsadee
 
 Privacy Policy
 Terms of Use
